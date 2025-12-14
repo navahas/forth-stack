@@ -11,15 +11,17 @@ projects.
 forth hello.fs
 ```
 
+- [GFORTH MANUAL](https://gforth.org/manual/Your-first-definition.html#Your-first-definition)
+
+- [Starting FORTH](https://www.forth.com/starting-forth/)
+
+- [Simple FORTH](http://www.murphywong.net/hello/simple.htm)
+
+- [Beginners Guide To Forth](https://programming.muthu.co/posts/beginners-guide-to-forth/)
+
+---
+
 https://learnxinyminutes.com/forth/
 
-https://programming.muthu.co/posts/beginners-guide-to-forth/
-
-#### Starting FORTH
-- https://www.forth.com/starting-forth/
-
-#### Simple FORTH
-- http://www.murphywong.net/hello/simple.htm
-
 #### Thinking FORTH
-- https://thinking-forth.sourceforge.net/
+Book [Thinking FORTH - LEO BRODIE](https://thinking-forth.sourceforge.net/)
