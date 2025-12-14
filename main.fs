@@ -1,9 +1,16 @@
-: add
-    10 20 30 cr
-    .s cr
-    . . cr
-    .s cr
+: assert ( flag -- )
+    0= ABORT" assertion failed"
 ;
 
-add
+: add
+    +
+;
+
+: main
+    10 20 .s add .s
+    30 = assert
+    cr
+;
+
+main
 bye
